@@ -1,12 +1,7 @@
-# helloworld
-helloworld
+# Latex && github
 
-Good morning, everybody!
+![](http://chart.googleapis.com/chart?cht=tx&chl=\Large\%20x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
-This is my first journey of Github
+or
 
-I'm learning c C++
-
-I'm interested in Java coffeescript node.js go
-
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large\%20x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+![](http://latex.codecogs.com/gif.latex?Fib(n)=\\frac{\\left(\\phi^{n}-\\gamma^{n}\\right)}{\\sqrt{5}})
